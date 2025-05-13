@@ -1,0 +1,116 @@
+win|2
+free|3
+prize|5
+lottery|5
+million|5
+dollar|8
+cash|7
+reward|5
+bonus|6
+investment|7
+profit|9
+rich|7
+money|10
+fortune|7
+inheritance|4
+claim|8
+unclaimed|8
+discount|10
+deal|9
+offer|8
+sale|10
+limited time|7
+exclusive|4
+voucher|10
+coupon|10
+buy now|9
+order today|6
+click here|5
+act fast|4
+urgent|6
+last chance|5
+password|8
+account|8
+verify|7
+login|6
+security|4
+suspended|4
+update|8
+confidential|8
+IRS|7
+tax|6
+refund|5
+bank|4
+PayPal|8
+Amazon|6
+eBay|5
+social security|4
+viagra|3
+pills|2
+pharmacy|2
+prescription|3
+weight loss|5
+diet|3
+miracle|5
+cure|6
+trúng thưởng|4
+giải thưởng|4
+triệu đô|5
+tiền mặt|3
+thưởng|2
+miễn phí|10
+hoàn tiền|6
+đầu tư|8
+lợi nhuận|7
+làm giàu|5
+tiền nhanh|2
+thừa kế|3
+bảo hiểm|5
+trúng số|4
+giảm giá|3
+khuyến mãi|5
+ưu đãi|6
+deal|8
+sale|8
+mua ngay|5
+giá sốc|6
+flash sale|4
+cơ hội|5
+duy nhất|5
+hấp dẫn|3
+nhanh tay|2
+sắp hết|6
+đặt hàng ngay|3
+tài khoản|5
+bảo mật|3
+xác minh|2
+đăng nhập|4
+thông tin|5
+cập nhật|4
+khẩn cấp|5
+ngân hàng|2
+PayPal|3
+Momo|5
+ZaloPay|4
+thẻ tín dụng|3
+mã OTP|2
+thuốc|4
+giảm cân|5
+tăng cường sinh lý|6
+đông y, thần dược|4
+khỏe đẹp|2
+da trắng|3
+Hóa đơn|6
+iCloud|3
+Apple|3
+App Store|3
+Github|7
+RealVNC|5
+Premium|8
+services|6
+website|6
+giao hàng thành công|6
+Welcome|2
+Mã của bạn|4
+
+
